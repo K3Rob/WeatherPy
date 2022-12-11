@@ -1,2 +1,2 @@
-# WeatherPy-Challenge
+# WeatherPy
 Weather database is a basic code to take random coordinates and change them into cities then gather weather info for those cities before exporting the dataframe to a file. The Vacation Search takes that info and refines it by a temperature range and nearby hotels in those locations before dropping any cities no data could be found for. That list is then printed to a new file to be imported into the Vacation Itinerary which maps out a trip with 4 destinations.
